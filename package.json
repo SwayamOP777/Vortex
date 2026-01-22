@@ -1,0 +1,11 @@
+{
+  "name": "vortex-api",
+  "version": "1.0.0",
+  "description": "API clone for mobile number lookup",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
